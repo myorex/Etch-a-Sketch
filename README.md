@@ -44,7 +44,7 @@ This project focuses on strengthening:
 
 * **HTML5**
 * **CSS3 (Flexbox)**
-* **Vanilla JavaScript**
+* **JavaScript**
 
 No frameworks or external libraries were used.
 
